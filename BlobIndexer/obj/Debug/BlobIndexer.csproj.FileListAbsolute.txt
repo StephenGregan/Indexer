@@ -1,0 +1,3 @@
+C:\Users\Ronan\source\repos\BlobIndexer\BlobIndexer\obj\Debug\BlobIndexer.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\BlobIndexer\BlobIndexer\obj\Debug\BlobIndexer.exe.config
+C:\Users\Ronan\source\repos\BlobIndexer\BlobIndexer\obj\Debug\BlobIndexer.csproj.CoreCompileInputs.cache
